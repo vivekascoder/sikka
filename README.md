@@ -24,7 +24,7 @@ It's in progress, whole code mayn't be work, so make sure to fix bugs, if you fi
 * ...
 
 > Soon implemtnting the database.<br>
-> Soon shifting to webapp.
+> Soon shifting to webapp.<br>
 > Soon implementing the wallet mechanism.
 
 ```
