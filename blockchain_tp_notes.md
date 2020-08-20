@@ -68,7 +68,9 @@ Mail Here: [vivekascoder@gmail.com](mailto:vivekascoder@gmail.com)
 
 ## 5. Proof of work.
 - To each block, we add a new item called **Nonce**.
+
 ![Proof Of Work](assets/proof_of_work.jpg)
+
 - **Nonce** is a no. such that hashs meets a certain criterion.
 - Nonce means *"No only used once"*.
 - This criterion could be that the generated hash should have leading four digits zero.
@@ -97,7 +99,9 @@ Mail Here: [vivekascoder@gmail.com](mailto:vivekascoder@gmail.com)
   - Suppose in a bitcoin network two d/f miners solve the same Proof-of-Work at the same time thus adding two blocks to the the last block in the blockchain.
 ![Resolving Conflicts](./assets/resolving_conflicts.jpg)
 - Now, the next mined block can be added to any branch, let say that it's now added to block 104A.
+
 ![Two Block in same blocks](assets/bitcoin_architecture.jpg)
+
 - So the branch 104A is longer than 104B.
 - In blockchain architecture the longest branch is taken under consideration and the rest one will be returned to the transaction pool.= from where it can be added to a new branch.
 
