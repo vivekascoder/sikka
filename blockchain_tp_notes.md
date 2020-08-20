@@ -1,7 +1,7 @@
 # Painkillers for Blockchain
 Notes from the book on [Tutorials Point](https://www.tutorialspoint.com/blockchain/blockchain_introduction.htm). <br>
 Date: 19 August 2020 <br>
-**I'm reading this book the secuation where the second time.** <br>
+**I'm reading this book for the second time.** <br>
 Mail Here: [vivekascoder@gmail.com](mailto:vivekascoder@gmail.com)
 
 ----
